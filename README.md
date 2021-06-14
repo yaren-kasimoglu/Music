@@ -56,6 +56,6 @@ Enjoy 😍
 
 ## Documents
 
-For help getting started with C#, view our online [documentation](https://docs.microsoft.com/en-us/dotnet/csharp/).
+For help getting started with C#, view online [documentation](https://docs.microsoft.com/en-us/dotnet/csharp/).
 
 
