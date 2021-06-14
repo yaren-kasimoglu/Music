@@ -17,7 +17,9 @@
   </h4>
 </div>
 
-![Ting Music](https://user-images.githubusercontent.com/34389409/44379729-7e8dc180-a531-11e8-872b-f39f1767b3e3.png)
+![image](https://user-images.githubusercontent.com/70938435/121902821-5a2db000-cd30-11eb-83ec-bfc6b6550c3d.png)
+![image](https://user-images.githubusercontent.com/70938435/121902859-6285eb00-cd30-11eb-8f71-5f277ddc0850.png)
+![image](https://user-images.githubusercontent.com/70938435/121902902-6d408000-cd30-11eb-8ae7-1fcdc23c1538.png)
 
 
 ## Features
