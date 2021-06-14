@@ -58,10 +58,4 @@ Enjoy 😍
 
 For help getting started with C#, view our online [documentation](https://docs.microsoft.com/en-us/dotnet/csharp/).
 
-## Bugs and Issues
-
-Have a bug or an issue with this project? [Open a new issue](https://github.com/cuongw/ting-music/issues) here on GitHub.
-## Team
-
-
 
