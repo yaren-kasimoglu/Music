@@ -10,10 +10,7 @@
   <h4>
     <a href="#features">Features</a> |
     <a href="#install">Install</a> |
-    <a href="#documents">Documents</a> |
-    <a href="#bugs-and-issues">Bugs and Issues</a> |
-    <a href="#team">Team</a> |
-    <a href="#license">License</a>
+    <a href="#documents">Documents</a> 
   </h4>
 </div>
 
